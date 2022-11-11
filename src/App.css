@@ -1,0 +1,20 @@
+
+body  {
+  font-size: 30px;
+
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.navbar {
+height: 80px;
+background: linear-gradient(95deg Blue green);
+color: orange;
+
+}
+
+.navbar.brand {
+  font-size: 25px;
+  color: red;
+  font-weight: 600;
+}
